@@ -1,0 +1,9 @@
+C:\Users\Dom\source\repos\app\Server\bin\Debug\Server.exe
+C:\Users\Dom\source\repos\app\Server\bin\Debug\Server.pdb
+C:\Users\Dom\source\repos\app\Server\obj\Debug\Server.Form1.resources
+C:\Users\Dom\source\repos\app\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Dom\source\repos\app\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Dom\source\repos\app\Server\obj\Debug\Server.exe
+C:\Users\Dom\source\repos\app\Server\obj\Debug\Server.pdb
+C:\Users\Dom\source\repos\app\Server\bin\Debug\socktes.dll
+C:\Users\Dom\source\repos\app\Server\obj\Debug\Server.csprojAssemblyReference.cache
